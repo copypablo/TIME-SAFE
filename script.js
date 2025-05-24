@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { nome: 'Marcos Pereira', posicao: 'Meio-campo', numero: 6, velocidade: 85, forca: 78, tecnica: 87 },
         { nome: 'Felipe Alves', posicao: 'Meio-campo', numero: 7, velocidade: 87, forca: 75, tecnica: 89 },
         { nome: 'Gabriel Martins', posicao: 'Meio-campo', numero: 8, velocidade: 86, forca: 76, tecnica: 88 },
-        { nome: 'Rodrigo Limo', posicao: 'Meio-campo', numero: 10, velocidade: 88, forca: 74, tecnica: 92 },
+        { nome: 'Rodrigo Lima', posicao: 'Meio-campo', numero: 10, velocidade: 88, forca: 74, tecnica: 92 },
         { nome: 'André Ferreira', posicao: 'Atacante', numero: 9, velocidade: 92, forca: 80, tecnica: 87 },
         { nome: 'Diego Souza', posicao: 'Atacante', numero: 11, velocidade: 91, forca: 81, tecnica: 86 },
         { nome: 'Henrique Gomes', posicao: 'Goleiro', numero: 12, velocidade: 73, forca: 83, tecnica: 85 },
